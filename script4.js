@@ -1,7 +1,7 @@
  
 const btn1 = document.getElementById("btn1"); const btn2 = 
 document.getElementById("btn2"); const btn3 = document.getElementById("btn3"); 
-const output = document.getElementById("output"); btn1.addEventListener("click", 
+const output = document.getElementById("output"); btn1.addEventListener("click",
 function() 
 { 
   
